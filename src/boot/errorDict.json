@@ -1,0 +1,20 @@
+{
+    "disabled":"Your account has been temporarily disabled",
+    "deleted":"Your account was marked for deletion",   
+    "no_such_user":"We have no such user",
+    "incorrect_pass":"Incorrect password",
+    "same_pass":"Both passwords are same",
+    "not_a_name":"That doesn't look like a real name",
+    "not_an_email":"That doesn't look like an email address",
+    "not_a_pass":"Password too short (3 characters minimum)",
+    "invalid_otp":"That's not the right OTP we sent you",
+    "mobile_taken":"The mobile number is associated with another account",
+    "terms_not_accepted":"Please accept all terms & conditions to continue",
+    "not_for_task":"Please fill in the task and brand details properly",
+    "hire_strength_limit":"You can hire between 1 and 50 people currently",
+    "hire_pay_limit":"You need to pay a minimum of 300₹ per day",
+    "hire_day_limit":"Events spanning more than 9 days are not yet supported",
+    "event_date_not_set":"Please set the correct date for the event",
+    "not_a_mobile_number":"That doesn't look like a valid mobile number",
+    "under_age":"You Must be more than 18 years old"
+}
